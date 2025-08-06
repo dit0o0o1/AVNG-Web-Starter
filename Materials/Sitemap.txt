@@ -1,0 +1,121 @@
+﻿Page: **Home**
+ - Navbar
+ - Header Section: A brief welcoming statement highlighting the NGO's mission in combating domestic violence and supporting victims, as well as tackling gender inequality, with an emphasis on their extensive experience and network.
+ - About Section: A short introduction to the organization, its history, and its role in addressing domestic violence, women rights and other issues in the region.
+ - Logo List Section: A display of partnership logos to highlight the network and credibility
+ - Services Section: An overview of the various services provided, such as legal assistance, social support, psychological services, and sheltering, with a "Learn More" link leading to the Services page.
+ - Sheltering: Information on sheltering services offering safe accommodation for victims and their children, with a link to the full Sheltering Services page.
+ - CTA Section: A prominent call-to-action encouraging visitors to reach out or seek help if needed, providing the phone number and a link to a contact form or contact page.
+ - Portfolio List Section: A selection of highlighted case studies or success stories from the organization's portfolio, demonstrating their impact and expertise, with a "Learn More" link leading to the Portfolio page.
+ - Project List Section: Summary of ongoing projects and an invitation to get involved.
+ - Contact Form Section: Provide a simple and accessible contact form for visitors to fill out, allowing them to request services, by providing their personal details, ensuring their confidentiality and ease of use.
+ - Blog List Section: A scrollable single-line display of the latest blog posts or updates, offering insights into the organization's activities and developments.
+ - Newsletter Section: An option for visitors to subscribe to updates on future projects and initiatives as well as updates that are posted on the Blog page, with option to select either or both.
+ - CTA Section: A prominent call-to-action encouraging donor organizations to donate, with a link to donation page.
+ - Footer
+
+Sub-pages: About Us (ჩვენს შესახებ), Services (სერვისები), Portfolio (პორტფოლიო), Blog (ბლოგი), Contact Us (დაგვიკავშირდით), Donate (შემოწირულობა)
+
+
+Page: **About Us (ჩვენს შესახებ)**
+ - Navbar
+ - Header Section: Introduction to the organization including its mission and vision
+ - About Section: Detailed history of the organization, its objectives, and core values
+ - Logo List Section: A display of partnership logos to highlight the network and credibility
+ - Legislative Work (კანონშემოქმედებითი საქმიანობა): brief summary of legislative work and links to dedicated portfolio page
+ - Shelter: All the information about shelter
+ - Social Enterprise (გემომეტრია): All the information about "გემომეტრია"
+ - Award Logos List Section: A showcase of awards and recognitions received by the organization
+ - Team Section: Information about the key team members and their roles within the organization
+ - Timeline Section: A timeline showcasing the organization's major milestones and achievements
+ - Contact Section: List the organization's physical address, phone number, email, social media pages, and working hours for easy reference.
+ - Footer
+
+Page: **Services (სერვისები)**
+ - Navbar
+ - Header Section: An introductory section that provides an overview of the comprehensive services offered by the organization.
+ - Legal Services Section (სამართლებრივი დახმარება): Brief information on legal services provided with a link to the full Legal Services page.
+ - Psychological services Section (ფსიქოლოგის მომსახურება): Summary of psychological services with a link to the full Psychological Services page.
+ - Social Services Section (სოციალური მუშაკის მომსახურება): Overview of social services with a link to the full Social Services page.
+ - Shelter Services Section (თავშესაფრის მომსახურება): Information on sheltering services with a link to the full Sheltering Services page.
+ - Art Therapy Service Section (არტ თერაპია): Brief information on Art Therapy provided by the organization with a link to the full Art Therapy page.
+ - Abuser Behavior Correction Programs Service Section (მოძალადეთა ქცევის კორექციის პროგრამები): Brief information about the program with a link to the full Abuser behavior correction programs page.
+ - Women's economic Empowerment Program Service Section (ქალთა ეკონომიკური გაძლიერების პროგრამა): Brief information about the program with a link to the full Women's economic empowerment program page.
+ - CTA Section: A call-to-action encouraging visitors to reach out for help, support the organization, or learn more about the services offered.
+ - Application Form Section: An application form for victims to request services, ensuring confidentiality and ease of use.
+ - FAQ Section: A section dedicated to answering frequently asked questions regarding the services, processes, and support available.
+ - Footer
+
+Sub-pages: Service Item
+
+
+Page: **Service Item**
+ - Navbar
+ - Service Item Header Section: Introduction to a specific service offered by the organization, such as “Legal Services for Victims of Domestic Violence.”
+ - Service Item Body Section: Detailed description of the service, how it helps victims, the process, and what outcomes can be expected.
+ - Features List Section: A list of key features or aspects of the service, such as confidentiality, legal representation, and advocacy.
+ - How It Works Section: A step-by-step guide on how victims can access and benefit from the service.
+ - Application Form Section: An online form where victims or their representatives can apply for the services discreetly and securely.
+ - CTA Section: A call-to-action encouraging visitors to reach out for help or learn more about the service offered.
+ - Services Section: An overview of the various services provided, such as legal assistance, social support, psychological services, and sheltering, with a "Learn More" link leading to the Services page.
+ - Footer
+
+Page: **Portfolio (პორტფოლიო)**
+ - Navbar
+ - Portfolio Item Header Section: Introduce the portfolio of the organization, highlighting its experience and broad network in the field of domestic violence and violence against women. (Portraing number of the completed projects and other summeries).
+ - Rehabilitation Programs Portfolio Section (სარეაბილიტაციო პროგრამები): Brief information on rehabilitation programs with a link to the full Rehabilitation Programs page.
+ - Abuser Behavior Correction Programs Portfolio Section (მოძალადეთა ქცევის კორექციის პროგრამები): Brief information on abuser behavior correction programs with a link to the full Abuser Behavior Correction Programs page.
+ - Legislative Activity Portfolio Section (კანონშემოქმედებითი საქმიანობა): Brief information on legislative activity with a link to the full Legislative Activity page.
+ - Educational Activities Portfolio Section (საგანმანათლებლო პროგრამები): Brief information on educational activities with a link to the full Educational Activities page.
+ - Awareness Raising Activities Portfolio Section (ცნობიერების ამაღლება): Brief information on awareness raising activities with a link to the full Awareness Raising Activities page.
+ - Women's Economic Empowerment Program Portfolio Section (ქალთა ეკონომიკური გაძლიერების პროგრამა): Brief information on Women's Economic Empowerment Program with a link to the full Women's Economic Empowerment Program page.
+ - Social Entrepreneurship - გემომეტრია Portfolio Section (სოციალური მეწარმეობა): Brief information on social entrepreneurship with a link to the full Social Entrepreneurship page.
+ - European Neighbourhood Programme for Agriculture and Rural Development (ENPARD): Brief information on ENPARD with a link to the full ENPARD page.
+ - CTA Section: A call-to-action mainly for donor organizations encouraging them to support the organization, with a link to the full donation page.
+ - Footer
+
+Sub-pages: Portfolio Item
+
+
+Page: **Portfolio Item**
+ - Navbar
+ - Portfolio Item Header Section: Introduce the specific portfolio item with a compelling title and a brief summary of the case, project, event or the work featured.
+ - Portfolio Item Body Section: Detailed description of the portfolio item, including the context, the organization's approach, and the impact of the work done.
+ - Footer
+
+Page: **Blog (ბლოგი)**
+ - Navbar
+ - Featured Blog List Header Section: A section introducing the most highlighted blog posts with a brief description for each.
+ - Newsletter Section: An invitation for visitors to sign up for the organization's newsletter for regular updates and news.
+ - Blog List Section: A comprehensive list of all blog posts in chronological order for visitors to browse through.
+ - Footer
+
+Sub-pages: Blog Post
+
+
+Page: **Blog Post**
+ - Navbar
+ - Blog Post Header Section: An engaging title and featured image for the blog post, including the date information.
+ - Blog Post Body Section: The main content of the blog post, including text, images, and other multimedia elements.
+ - Blog List Section: Suggest additional blog posts at the end of the article, encouraging readers to continue exploring related topics or updates.
+ - Footer
+
+Page: **Contact Us (დაგვიკავშირდით)**
+ - Navbar
+ - Header Section: Include a welcoming message and a brief introduction to encourage visitors to get in touch for support or with any questions they may have.
+ - Contact Section: List the organization's physical address, phone number, email, social media pages, and working hours for easy reference.
+ - Newsletter Section (სიახლეების გამოწერა): An invitation for visitors to sign up for the organization's newsletter for regular updates news or project launches
+ - Contact Form Section: Provide a simple and accessible contact form for visitors to fill out, allowing them to provide personal details, the nature of their inquiry, and any specific requests or questions.
+ - Chat With Us Section (ჩათით დახმარება): Section that would encourage visitors to contact organization in messenger and would redirect to it
+ - Footer
+
+Page: **Donate (შემოწირულობა)**
+ - Navbar
+ - Header Section: A brief introduction encouraging visitors to support the organization's mission by making a donation, emphasizing the impact of their contributions.
+ - CTA Form Section: A secure and user-friendly donation form where visitors can choose the amount they wish to donate, select a one-time or recurring donation, and provide their payment information.
+ - Benefits Section: Highlight the benefits of donating, such as how contributions help provide services, support victims, etc...
+ - Testimonial Section: Feature testimonials from beneficiaries or donors, sharing personal stories of how donations have made a difference.
+ - Contact Section: Provide contact details for visitors who may have questions about the donation process or want to learn more about how their contributions are used.
+ - Contact Form Section: Include a contact form for visitors to easily reach out with any inquiries related to donations or other support.
+ - Footer
+
