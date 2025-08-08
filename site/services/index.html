@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>სერვისები — AVNG</title>
+  <link rel="stylesheet" href="/assets/css/styles.css" />
+  <script defer src="/assets/js/main.js"></script>
+</head>
+<body>
+  <header class="header">
+    <div class="container nav">
+      <a class="brand" href="/index.html"><img src="/assets/img/logo.svg" alt="AVNG" /><strong>AVNG</strong></a>
+      <nav class="links">
+        <a href="/index.html" data-active>მთავარი</a>
+        <a href="/about/index.html" data-active>ჩვენს შესახებ</a>
+        <a href="/services/index.html" data-active>სერვისები</a>
+        <a href="/portfolio/index.html" data-active>პორტფოლიო</a>
+        <a href="/blog/index.html" data-active>ბლოგი</a>
+        <a href="/contact/index.html" data-active>დაგვიკავშირდით</a>
+        <a class="btn accent" href="/donate/index.html">შემოწირულობა</a>
+      </nav>
+      <button class="menu" onclick="toggleMenu()">მენიუ</button>
+    </div>
+    <div class="container mobile">
+      <a href="/portfolio/index.html">პორტფოლიო</a>
+      <a href="/blog/index.html">ბლოგი</a>
+      <a href="/contact/index.html">დაგვიკავშირდით</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <h1>სერვისები</h1>
+        <p>კომპრეჰენსიური მხარდაჭერა: იურიდიული, ფსიქოლოგიური და სოციალური სერვისები, თავშესაფარი, არტ თერაპია, მოძალადეთა პროგრამები და ქალთა ეკონომიკური გაძლიერება.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container grid cols-2">
+        <a class="card" href="/services/legal/index.html"><h3>სამართლებრივი დახმარება</h3><p>უპირველესი კონსულტაციები, სარჩელები და წარმომადგენლობა.</p></a>
+        <a class="card" href="/services/psychology/index.html"><h3>ფსიქოლოგის მომსახურება</h3><p>პირველი დახმარება, კონსულტაციები და თერაპია.</p></a>
+        <a class="card" href="/services/social-work/index.html"><h3>სოციალური მომსახურება</h3><p>საჭიროებების შეფასება და კოორდინაცია.</p></a>
+        <a class="card" href="/services/shelter/index.html"><h3>თავშესაფარი</h3><p>უსაფრთხო სივრცე და 24/7 მხარდაჭერა.</p></a>
+        <a class="card" href="/services/art-therapy/index.html"><h3>არტ თერაპია</h3><p>შემოქმედებითი თერაპია ბენეფიციარებისთვის.</p></a>
+        <a class="card" href="/services/abuser-programs/index.html"><h3>მოძალადეთა პროგრამები</h3><p>ქცევის ცვლილება და უსაფრთხოების ზრდა.</p></a>
+        <a class="card" href="/services/economic-empowerment/index.html"><h3>ქალთა ეკონომიკური გაძლიერება</h3><p>სოციალური მეწარმეობა „გემომეტრია“.</p></a>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container">
+        <h2>განაცხადის ფორმა</h2>
+        <form class="form" data-demo-form>
+          <div class="grid cols-2">
+            <div class="input"><label>სახელი და გვარი</label><input name="full_name" required></div>
+            <div class="input"><label>სასურველი სერვისი</label>
+              <select name="service">
+                <option>სამართლებრივი დახმარება</option>
+                <option>ფსიქოლოგის მომსახურება</option>
+                <option>სოციალური მომსახურება</option>
+                <option>თავშესაფარი</option>
+                <option>არტ თერაპია</option>
+                <option>მოძალადეთა პროგრამები</option>
+                <option>ქალთა ეკონომიკური გაძლიერება</option>
+              </select>
+            </div>
+          </div>
+          <div class="input"><label>კონტაქტი</label><input name="contact" placeholder="ტელეფონი ან ელ.ფოსტა" required></div>
+          <div class="input"><label>შეტყობინება</label><textarea name="message" rows="4" required></textarea></div>
+          <button class="btn primary" type="submit">გაგზავნა</button>
+        </form>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container faq">
+        <h2>ხშირად დასმული კითხვები</h2>
+        <details><summary>კონფიდენციალურია თუ არა კონტაქტი?</summary><p>დიახ. ბენეფიციართა მონაცემები დაცულია და მუშავდება კონფიდენციალურად.</p></details>
+        <details><summary>აქვს თუ არა თავშესაფარს ადგილები?</summary><p>განთავსება ხდება ინდივიდუალური შეფასების საფუძველზე. სამიზნე ჯგუფი განსაზღვრულია სახელმწიფო პროგრამით.</p></details>
+        <details><summary>უნდა მოვიდე ოფისში?</summary><p>საწყისი კონსულტაცია შესაძლებელია ტელეფონით/ონლაინ. საჭიროების შემთხვევაში დაინიშნება შეხვედრა.</p></details>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container">
+        <div class="card">
+          <h2>დამატებითი კითხვები?</h2>
+          <p>მოგვწერეთ ან დაგვირეკეთ: <strong>[ტელეფონი — დასამატებელია]</strong></p>
+          <a class="btn outline" href="/contact/index.html">კონტაქტის გვერდი</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="cols">
+        <div><img src="/assets/img/logo.svg" alt="AVNG" style="height:36px" /></div>
+        <div><h4>გზამკვლევი</h4><p><a href="/about/index.html">ჩვენს შესახებ</a></p></div>
+        <div><h4>კონტაქტი</h4><p>ელ.ფოსტა: [დასამატებელია]</p></div>
+        <div><h4>დონაცია</h4><p><a class="btn accent" href="/donate/index.html">შემოწირულობა</a></p></div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
